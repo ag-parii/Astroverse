@@ -139,11 +139,11 @@ footer{
         flex-wrap: wrap;
     }
 
-    .zodiac-container {
+    .Zodiac-container {
         grid-template-columns: repeat(2, 1fr);
     }
 
-    .planet-container,
+    .Planets-container,
     .daily-container {
         grid-template-columns: repeat(2, 1fr);
     }
@@ -163,8 +163,8 @@ footer{
         margin-right: 0;
     }
 
-    .zodiac-container,
-    .planet-container,
+    .Zodiac-container,
+    .Planets-container,
     .daily-container {
         grid-template-columns: 1fr;
     }
